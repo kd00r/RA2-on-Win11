@@ -1,9 +1,8 @@
 # RA2-on-Win11
-Instruction on how to runthe Origin version of  Red Alert 2 on Windows 11
+Instruction on how to run the Origin version of  Red Alert 2 on Windows 11
 
 
 # Downloading your bought copy of RA2+YR from Origin:
-
 
 1. Download RA2+YR from within the Origin client.
 2. Download https://bibber.eu/downloads/cnc-ultimate-collection-launchers/
