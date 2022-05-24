@@ -1,9 +1,9 @@
 # RA2-on-Win11
 Instruction on how to runthe Origin version of  Red Alert 2 on Windows 11
 
-#####################################################
-#Downloading your bought copy of RA2+YR from Origin:#
-#####################################################
+
+# Downloading your bought copy of RA2+YR from Origin:
+
 
 1. Download RA2+YR from within the Origin client.
 2. Download https://bibber.eu/downloads/cnc-ultimate-collection-launchers/
@@ -18,9 +18,7 @@ To, for example:
 "C:\RA2"
 
 
-#########################
-#Installing the patches:#
-#########################
+# Installing the patches:
 
 In your copy of the above folder, "C:\RA2" in the example, do the follwing:
 
@@ -37,9 +35,7 @@ ddraw.dll
 ddraw.ini
 
 
-####################
-#Configuring ddraw:#
-####################
+# Configuring ddraw:
 
 1. Run "C:\RA2\cnc-ddraw config.exe"
 
@@ -71,9 +67,7 @@ Set it to your preferred speed. (I recommend somewhere around 100.)
 7. Save and exit the "ddraw.ini" file.
 
 
-#########################
-#Configuring resolution:#
-#########################
+# Configuring resolution:
 
 1. Open "RA2.INI"
 2. Find the video section and change the defaults to your resolution like this (for 1080p in this example):
@@ -91,9 +85,7 @@ Choose the game, RA2 or YR.
 Enjoy.
 
 
-###################################################################
-#OPTIONAL: Setting up CNCNet for a revived multiplayer experience:#
-###################################################################
+# OPTIONAL: Setting up CNCNet for a revived multiplayer experience:
 
 1. Download CnCNet5_YR_Installer.exe from here:
 https://cncnet.org/yuris-revenge#download
@@ -122,8 +114,6 @@ Run ""C:\RA2_CNCNET\CnCNetYRLauncher.exe" for the CNCNet multiplayer client.
 Enjoy.
 
 
-##########################################################
-#OPTIONAL: Removing the Origin version to save HDD space:#
-##########################################################
+# OPTIONAL: Removing the Origin version to save HDD space:
 1. Open Origin.
 2. Uninstall RA2.
