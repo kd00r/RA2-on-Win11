@@ -1,5 +1,5 @@
 # RA2-on-Win11
-Instruction on how to run the Origin version of  Red Alert 2 on Windows 11
+Instruction on how to run the Origin version of Red Alert 2 on Windows 11 with full resolution patch
 
 
 # Downloading your bought copy of RA2+YR from Origin:
